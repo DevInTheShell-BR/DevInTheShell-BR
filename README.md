@@ -2,7 +2,7 @@
 
 ### 🧑‍💻 About Me:
 
-My name is Diego Passos and I'm just a dev (in the shell) who creates content about software (and sometimes hardware) development. I'm current working in my macro keyboard project, my own site and an application in the health and fitness field.
+My name is Diego Passos and I'm just a dev (in the shell) who creates content about software (and sometimes hardware) development. I'm currently working in my macro keyboard project, my own site and an application in the health and fitness field.
 You can check my projects advances on [my site](http://devintheshell.com.br) and [my YouTube channel](https://www.youtube.com/channel/UCU8unHkrQHVxKq9Of0NcUjA).
 
 
