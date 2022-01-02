@@ -21,6 +21,7 @@ You can check my projects advances on [my site](http://devintheshell.com.br) and
 
 ### 🔧 Languages and Tools:
 
+<div>
 <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
 <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
@@ -33,7 +34,7 @@ You can check my projects advances on [my site](http://devintheshell.com.br) and
 <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
 <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
 <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
-
+</div>
 
 
 ### 📈 My GitHub Stats: 
