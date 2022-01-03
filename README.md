@@ -1,12 +1,15 @@
 # Hello stranger, welcome to my GitHub! 
 
-### 🧑‍💻 About Me:
+### 🧑‍💻 About me:
 
 My name is Diego Passos and I'm just a dev (in the shell) who creates content about software (and sometimes hardware) development. I'm currently working in my macro keyboard project, my own site and an application in the health and fitness field.
-You can check my projects advances on [my site](http://devintheshell.com.br) and [my YouTube channel](https://www.youtube.com/channel/UCU8unHkrQHVxKq9Of0NcUjA).
+</br>
+</br>
+You can check my project's advances on [my site](http://devintheshell.com.br) and on [my YouTube channel](https://www.youtube.com/channel/UCU8unHkrQHVxKq9Of0NcUjA).
 
 <!--TODO: latest video and latest article -->
-
+</br>
+</br>
 ### 🔗 Connect with me:
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:devintheshell@gmail.com)
@@ -19,6 +22,8 @@ You can check my projects advances on [my site](http://devintheshell.com.br) and
 
 <!-- TODO: insert discord link and create facebook account -->
 
+</br>
+</br>
 ### 🔧 Languages and Tools:
 
 <div>
@@ -37,6 +42,8 @@ You can check my projects advances on [my site](http://devintheshell.com.br) and
 </div>
 
 
+</br>
+</br>
 ### 📈 My GitHub Stats: 
 
 <div align="center">
