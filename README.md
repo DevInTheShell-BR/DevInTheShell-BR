@@ -10,6 +10,7 @@ You can check my project's advances on [my site](http://devintheshell.com.br) an
 <!--TODO: latest video and latest article -->
 </br>
 </br>
+
 ### 🔗 Connect with me:
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:devintheshell@gmail.com)
@@ -24,6 +25,7 @@ You can check my project's advances on [my site](http://devintheshell.com.br) an
 
 </br>
 </br>
+
 ### 🔧 Languages and Tools:
 
 <div>
@@ -44,6 +46,7 @@ You can check my project's advances on [my site](http://devintheshell.com.br) an
 
 </br>
 </br>
+
 ### 📈 My GitHub Stats: 
 
 <div align="center">
