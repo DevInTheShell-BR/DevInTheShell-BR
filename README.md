@@ -53,7 +53,8 @@ You can check my project's advances on [my site](http://devintheshell.com.br) an
   <a href="https://github.com/DevInTheShell-BR">
   
   <img width="52%" height="180em" src="https://github-readme-stats.vercel.app/api?username=DevInTheShell-BR&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-  <img width="47%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevInTheShell-BR&layout=compact&langs_count=7&theme=light"/>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+    
+    </div>
 
 </br>
